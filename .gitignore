@@ -1,0 +1,8 @@
+settings.py
+
+venv/
+__pycache__/
+
+us_state_vaccinations.csv
+us-counties.csv
+co-est2019-alldata.csv
